@@ -48,12 +48,11 @@
 <h2 align="center">📌 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/rajat2005-git/PROJECT_ONE"><img alt="Project One" src="https://github-readme-stats.vercel.app/api/pin/?username=rajat2005-git&repo=PROJECT_ONE&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/rajat2005-git/PROJECT_TWO"><img alt="Project Two" src="https://github-readme-stats.vercel.app/api/pin/?username=rajat2005-git&repo=PROJECT_TWO&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/rajat2005-git/student-database"><img alt="Student Database" src="https://github-readme-stats.vercel.app/api/pin/?username=rajat2005-git&repo=student-database&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/rajat2005-git/Healthcare-chatbot"><img alt="Healthcare Chatbot" src="https://github-readme-stats.vercel.app/api/pin/?username=rajat2005-git&repo=Healthcare-chatbot&theme=radical&hide_border=true" /></a>
 </div>
 <div align="center">
-  <a href="https://github.com/rajat2005-git/PROJECT_THREE"><img alt="Project Three" src="https://github-readme-stats.vercel.app/api/pin/?username=rajat2005-git&repo=PROJECT_THREE&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/rajat2005-git/PROJECT_FOUR"><img alt="Project Four" src="https://github-readme-stats.vercel.app/api/pin/?username=rajat2005-git&repo=PROJECT_FOUR&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/rajat2005-git/super-puyo"><img alt="Super Puyo" src="https://github-readme-stats.vercel.app/api/pin/?username=rajat2005-git&repo=super-puyo&theme=radical&hide_border=true" /></a>
 </div>
 
 <img width="100%" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:A100B5,50:7B68EE,100:00969B&height=3&section=header" />
