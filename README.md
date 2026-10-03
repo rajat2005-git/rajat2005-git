@@ -18,7 +18,7 @@
 
 <div align="center">
   
-| **Currently learning** | LLM's, GenAI, Full-stack development using Python, HTML, CSS, JavaScript & FastAPI, plus database design and PyGame development ||
+I'm **Rajat Saini**, a passionate Computer Science student who enjoys building creative projects with Python, web development, and AI. I love learning new technologies, solving problems, and turning ideas into practical applications. I'm continuously improving my skills through projects and exploring innovative ways to combine technology, creativity, and real-world solutions.
 
 </div>
 
