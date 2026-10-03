@@ -17,8 +17,8 @@
 <h2 align="center"> About Me</h2>
 
 <div align="center">
-
-|---|---|
+  
+| | |
 | 🌱 **Currently learning** | LLM's, GenAI, Full-stack development using Python, HTML, CSS, JavaScript & FastAPI, plus database design and PyGame development ||
 
 </div>
@@ -46,8 +46,6 @@
   <img height="52" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
   <img height="52" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
   <img height="52" alt="PHP" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;
-  <br/><br/>
-  <img height="52" alt="Excel" title="Excel" src="https://cdn.simpleicons.org/microsoftexcel/21A366" />&nbsp;
   <img height="52" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
   <img height="52" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/8b949e" />&nbsp;
   <img height="52" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
