@@ -18,8 +18,7 @@
 
 <div align="center">
   
-| | |
-| 🌱 **Currently learning** | LLM's, GenAI, Full-stack development using Python, HTML, CSS, JavaScript & FastAPI, plus database design and PyGame development ||
+| **Currently learning** | LLM's, GenAI, Full-stack development using Python, HTML, CSS, JavaScript & FastAPI, plus database design and PyGame development ||
 
 </div>
 
