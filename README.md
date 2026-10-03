@@ -14,11 +14,10 @@
 
 <br/>
 
-<h2 align="center">👋 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <div align="center">
 
-| | |
 |---|---|
 | 🌱 **Currently learning** | LLM's, GenAI, Full-stack development using Python, HTML, CSS, JavaScript & FastAPI, plus database design and PyGame development ||
 
@@ -26,7 +25,7 @@
 
 <img width="100%" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:00969B,50:7B68EE,100:A100B5&height=3&section=header" />
 
-<h2 align="center">📌 Featured Projects</h2>
+<h2 align="center"> Featured Projects</h2>
 
 <div align="center">
   <a href="https://github.com/rajat2005-git/student-database"><img alt="Student Database" src="https://github-readme-stats.vercel.app/api/pin/?username=rajat2005-git&repo=student-database&theme=radical&hide_border=true" /></a>
@@ -38,7 +37,7 @@
 
 <img width="100%" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:A100B5,50:7B68EE,100:00969B&height=3&section=header" />
 
-<h2 align="center">⚡ Technology Stack</h2>
+<h2 align="center"> Technology Stack</h2>
 
 <!-- Delete any icons you don't use. Add more from https://devicon.dev -->
 <div align="center">
@@ -62,7 +61,7 @@
 
 <img width="100%" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:00969B,50:7B68EE,100:A100B5&height=3&section=header" />
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"> GitHub Stats</h2>
 
 <div align="center">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rajat2005-git&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -74,7 +73,7 @@
 
 <img width="100%" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:A100B5,50:7B68EE,100:00969B&height=3&section=header" />
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center"> Contribution Snake</h2>
 
 <div align="center">
   <picture>
@@ -86,7 +85,7 @@
 
 <img width="100%" alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:00969B,50:7B68EE,100:A100B5&height=3&section=header" />
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <p align="center"><em>Always open to conversations, collaborations, or just a good chat!</em></p>
 
